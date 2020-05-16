@@ -2,7 +2,7 @@
 
 Classification of Road Sign using CNN. The Dataset used is  <a href="https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign">here</a> . 
 
-To train your model in your own dataset use traffic2.py. You can also use mine trained model named ```model_trained.p```, if you dont want to train your own model.
+To train your model in your own dataset use ```traffic2.py```. You can also use mine trained model named ```model_trained.p```, if you dont want to train your own model.
 
 Use ```traffic2_test_data.py``` file to test the model accurase on test dataset 
 
